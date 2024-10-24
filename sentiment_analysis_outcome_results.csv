@@ -1,0 +1,11 @@
+ID,Sentiment,Outcome
+0,Positive  ,Followup needed
+1,Negative  ,Followup needed
+2,Neutral  ,Followup needed
+3,Negative  ,Followup needed
+4,Positive  ,Issue resolved
+5,Positive  ,Followup needed
+6,Positive  ,Issue resolved
+7,Neutral  ,Followup needed
+8,Neutral  ,Followup needed
+9,Neutral  ,Followup needed  
